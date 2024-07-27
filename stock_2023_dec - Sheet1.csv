@@ -1,0 +1,93 @@
+product_name,brand,model,number_of_stock,purchase_price,selling_price,days_to_sell
+mobile,Samsung,Galaxy S21,50,200,250,30
+mobile,Apple,iPhone 13,40,800,900,28
+mobile,Xiaomi,Mi 11,60,400,500,35
+ac,LG,LS-Q18,15,500,600,45
+ac,Daikin,FTKH50,10,700,850,50
+ac,Voltas,185V,20,400,500,40
+tv,Samsung,UA43,25,350,450,33
+tv,Sony,Bravia KDL,20,500,650,37
+tv,LG,43UN73,30,400,550,32
+laptop,HP,Pavilion 15,30,600,750,28
+laptop,Dell,Inspiron 14,20,700,850,34
+laptop,Apple,MacBook Air,15,1000,1200,40
+refrigerator,LG,GL-T402,10,800,950,50
+refrigerator,Whirlpool,IF INV,5,700,850,55
+refrigerator,Samsung,RT34,8,900,1050,52
+speaker,Bose,SoundLink,50,100,150,30
+speaker,JBL,Flip 5,40,80,120,35
+speaker,Sony,SRS-XB12,60,50,90,28
+mobile,OnePlus,Nord 2,45,300,400,32
+mobile,Oppo,Reno 6,50,350,450,30
+mobile,Vivo,V21,55,380,480,29
+ac,Samsung,AR18,12,550,650,48
+ac,Hitachi,RAV518,10,600,700,42
+ac,Blue Star,5HW18,15,450,550,47
+tv,TCL,50P615,22,320,420,38
+tv,Panasonic,TH-43,18,370,470,40
+tv,Philips,50PUT,24,430,530,36
+laptop,Lenovo,Ideapad 3,28,500,650,34
+laptop,Acer,Aspire 5,18,550,700,37
+laptop,Asus,VivoBook,20,650,800,33
+refrigerator,Haier,HRF-290,7,850,1000,50
+refrigerator,Godrej,RT EON,9,750,900,45
+refrigerator,Panasonic,NR-BS60,6,950,1100,55
+speaker,Ultimate Ears,Wonderboom 2,45,90,140,30
+speaker,Marshall,Emberton,38,120,180,28
+speaker,Anker,Soundcore,55,60,110,26
+mobile,Samsung,Galaxy A52,48,220,270,31
+mobile,Apple,iPhone SE,42,600,700,33
+mobile,Xiaomi,Redmi Note 10,58,280,380,30
+ac,LG,MS-Q18,14,520,620,40
+ac,Daikin,FTKL35,11,680,780,44
+ac,Voltas,125 DY,18,420,520,38
+tv,Samsung,UA50,23,360,460,37
+tv,Sony,Bravia KD,19,520,670,36
+tv,LG,50UN73,27,420,570,32
+laptop,HP,Envy 13,26,700,850,30
+laptop,Dell,XPS 13,16,800,950,40
+laptop,Apple,MacBook Pro,12,1200,1400,45
+refrigerator,LG,GL-D292,9,820,970,50
+refrigerator,Whirlpool,NEO DF,4,720,870,52
+refrigerator,Samsung,RR20,7,920,1070,54
+speaker,Bose,Home Speaker 300,52,150,200,26
+speaker,JBL,Charge 4,39,100,150,30
+speaker,Sony,SRS-XB43,57,80,130,25
+mobile,OnePlus,8T,47,320,420,30
+mobile,Oppo,F19,49,340,440,28
+mobile,Vivo,Y51,53,360,460,29
+ac,Samsung,AR24,13,580,680,38
+ac,Hitachi,RAU518,9,630,730,40
+ac,Blue Star,5HW12,17,470,570,37
+tv,TCL,55P615,21,330,430,32
+tv,Panasonic,TH-50,17,390,490,34
+tv,Philips,55PUT,25,450,550,30
+laptop,Lenovo,ThinkPad E14,27,520,670,33
+laptop,Acer,Nitro 5,17,570,720,35
+laptop,Asus,ZenBook 14,19,680,830,30
+refrigerator,Haier,HRF-619,6,880,1030,45
+refrigerator,Godrej,RT EON V,8,770,920,50
+refrigerator,Panasonic,NR-BS62,5,970,1120,55
+speaker,Ultimate Ears,Megaboom 3,43,110,160,28
+speaker,Marshall,Stockwell II,36,140,200,26
+speaker,Anker,Soundcore 2,53,70,120,24
+mobile,Samsung,Galaxy M32,46,230,280,29
+mobile,Apple,iPhone 12,41,700,800,32
+mobile,Xiaomi,Redmi 9,57,290,390,30
+ac,LG,LS-Q24,13,530,630,40
+ac,Daikin,FTKP50,10,690,790,45
+ac,Voltas,155 V,17,430,530,35
+tv,Samsung,UA55,22,370,470,34
+tv,Sony,Bravia KD-55,18,540,690,37
+tv,LG,55UN73,26,440,590,32
+laptop,HP,Spectre x360,25,720,870,30
+laptop,Dell,Inspiron 15,15,820,970,40
+laptop,Apple,MacBook Air M1,11,1300,1500,45
+refrigerator,LG,GL-T502,8,840,990,50
+refrigerator,Whirlpool,IF PRO,3,740,890,55
+refrigerator,Samsung,RT39,6,940,1090,52
+speaker,Bose,Portable Home Speaker,51,160,210,28
+speaker,JBL,Xtreme 2,38,110,160,26
+speaker,Sony,SRS-XB23,56,90,140,25
+mobile,OnePlus,7T,46,340,440,30
+mobile,Oppo,A74,48,360,460,28
